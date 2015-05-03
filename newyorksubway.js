@@ -10,6 +10,15 @@ var lineN = ["Times SquareN", "34th", "28thN", "23rdN", "Union Square", "8thN"];
 
 //if (originStation === "8thL" && destinationStation === "6thL") {alert("1 stop")}
 
+//   if (lineL.indexOf(originStation) - lineL.indexOf(destinationStation) === Math.abs(1)){
+//     alert("1 stop");
+// } else if (lineL.indexOf(originStation) - lineL.indexOf(destinationStation) === Math.abs(2)) {
+//   alert("2 stops");
+// } else if (lineL.indexOf(originStation) - lineL.indexOf(destinationStation) === Math.abs(3)) {
+//   alert("3 stops");
+// }
+
 //console.log(lineL.length);
 //console.log(lineSix.length);
 //console.log(lineN.length);
+
