@@ -22,7 +22,13 @@ var lineN = ["Times SquareN", "34th", "28thN", "23rdN", "Union Square", "8thN"];
 //console.log(lineSix.length);
 //console.log(lineN.length);
 
-var result = Math.abs(lineL.indexOf(originStation) - lineL.indexOf(destinationStation)); {
-  alert(result);
-}
 
+var resultLineL = Math.abs(lineL.indexOf(originStation) - lineL.indexOf(destinationStation)); 
+
+var resultLineSix = Math.abs(lineSix.indexOf(originStation) - lineSix.indexOf(destinationStation)); 
+
+var resultLineN = Math.abs(lineN.indexOf(originStation) - lineN.indexOf(destinationStation)); {
+
+alert(resultLineL + resultLineSix + resultLineN + " stops");
+ 
+}
