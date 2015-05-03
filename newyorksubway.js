@@ -8,7 +8,8 @@ var lineN = ["Times SquareN", "34th", "28thN", "23rdN", "Union Square", "8thN"];
   var destinationStation = prompt("Please type the station that you want to go to:");
 }
 
+//if (originStation === "8thL" && destinationStation === "6thL") {alert("1 stop")}
 
-console.log(lineL.length);
-console.log(lineSix.length);
-console.log(lineN.length);
+//console.log(lineL.length);
+//console.log(lineSix.length);
+//console.log(lineN.length);
