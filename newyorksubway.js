@@ -22,3 +22,7 @@ var lineN = ["Times SquareN", "34th", "28thN", "23rdN", "Union Square", "8thN"];
 //console.log(lineSix.length);
 //console.log(lineN.length);
 
+var result = Math.abs(lineL.indexOf(originStation) - lineL.indexOf(destinationStation)); {
+  alert(result);
+}
+
